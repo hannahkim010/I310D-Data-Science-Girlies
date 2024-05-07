@@ -1,5 +1,5 @@
-Prior to running any of the notebooks, be sure to change the file directory if importing any of the
-notebooks to Google Colabs or remove the directory altogether if running locally.
+Prior to running any of the notebooks, be sure to change the file directory if importing any of the notebooks to Google Colabs or remove the directory altogether if running locally. However, ensure that the dummy_data.csv file is imported prior to running the file.
+
 
 In order to run the Linear Regression algorithm, you must have the encoding_module.py file under
 the same folder as the notebook for the Linear Regression algorithm. The encoding_module.py file
